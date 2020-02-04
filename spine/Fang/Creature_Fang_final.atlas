@@ -1,0 +1,55 @@
+
+Creature_Fang_final.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_BackFoot
+  rotate: false
+  xy: 738, 35
+  size: 132, 244
+  orig: 132, 244
+  offset: 0, 0
+  index: -1
+F_backfoot
+  rotate: true
+  xy: 832, 72
+  size: 208, 219
+  orig: 208, 219
+  offset: 0, 0
+  index: -1
+F_paw
+  rotate: 270
+  xy: 107, 4
+  size: 123, 250
+  orig: 127, 250
+  offset: 0, 0
+  index: -1
+Glowing teeth
+  rotate: false
+  xy: 248, 107
+  size: 296, 172
+  orig: 296, 172
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 102
+  size: 307, 178
+  orig: 307, 178
+  offset: 0, 0
+  index: -1
+f_backpaw
+  rotate: true
+  xy: 454, 23
+  size: 130, 283
+  orig: 150, 290
+  offset: 20, 0
+  index: -1
+lower_jaw
+  rotate: false
+  xy: 524, 81
+  size: 210, 199
+  orig: 210, 199
+  offset: 0, 0
+  index: -1

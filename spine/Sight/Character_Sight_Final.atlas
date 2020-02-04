@@ -1,0 +1,90 @@
+
+Character_Sight_Final.png
+size: 1950,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackFoot
+  rotate: true
+  xy: 1551, 34
+  size: 86, 160
+  orig: 86, 160
+  offset: 0, 0
+  index: -1
+BackThigh
+  rotate: true
+  xy: 1614, 131
+  size: 143, 172
+  orig: 143, 172
+  offset: 0, 0
+  index: -1
+BackWing
+  rotate: false
+  xy: 648, 122
+  size: 481, 351
+  orig: 481, 351
+  offset: 0, 0
+  index: -1
+BackWingCrystals
+  rotate: false
+  xy: 1041, 9
+  size: 347, 111
+  orig: 347, 111
+  offset: 0, 0
+  index: -1
+FrontFoot
+  rotate: true
+  xy: 1390, 29
+  size: 91, 159
+  orig: 91, 159
+  offset: 0, 0
+  index: -1
+FrontThigh
+  rotate: false
+  xy: 1788, 96
+  size: 138, 178
+  orig: 138, 178
+  offset: 0, 0
+  index: -1
+FrontWing
+  rotate: false
+  xy: 1131, 122
+  size: 481, 351
+  orig: 481, 351
+  offset: 0, 0
+  index: -1
+FrontWingCrystals
+  rotate: false
+  xy: 693, 2
+  size: 346, 118
+  orig: 346, 174
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 379, 87
+  size: 386, 267
+  orig: 386, 267
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 21
+  size: 452, 375
+  orig: 452, 375
+  offset: 0, 0
+  index: -1
+MaskCrystals
+  rotate: false
+  xy: 379, 7
+  size: 312, 78
+  orig: 312, 78
+  offset: 0, 0
+  index: -1
+Torso+Pelvis
+  rotate: true
+  xy: 1614, 276
+  size: 197, 334
+  orig: 205, 335
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,600 @@
+
+dogFullBody.png
+size: 2045,1963
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dogGreen/images/backleg_back
+  rotate: true
+  xy: 2, 691
+  size: 366, 764
+  orig: 366, 764
+  offset: 0, 0
+  index: -1
+dogGreen/images/backpaw_back
+  rotate: false
+  xy: 291, 1805
+  size: 260, 156
+  orig: 272, 156
+  offset: 6, 0
+  index: -1
+dogGreen/images/backpaw_front
+  rotate: false
+  xy: 591, 1627
+  size: 306, 171
+  orig: 306, 177
+  offset: 0, 3
+  index: -1
+dogGreen/images/collar
+  rotate: false
+  xy: 768, 539
+  size: 603, 378
+  orig: 603, 378
+  offset: 0, 0
+  index: -1
+dogGreen/images/ear_back
+  rotate: true
+  xy: 1303, 1392
+  size: 219, 257
+  orig: 219, 257
+  offset: 0, 0
+  index: -1
+dogGreen/images/ear_front
+  rotate: true
+  xy: 1562, 1287
+  size: 310, 390
+  orig: 310, 390
+  offset: 0, 0
+  index: -1
+dogGreen/images/foreleg_back
+  rotate: true
+  xy: 2, 258
+  size: 431, 761
+  orig: 431, 761
+  offset: 0, 0
+  index: -1
+dogGreen/images/forepaw_back
+  rotate: false
+  xy: 1688, 1794
+  size: 270, 167
+  orig: 270, 167
+  offset: 0, 0
+  index: -1
+dogGreen/images/forepaw_front
+  rotate: false
+  xy: 2, 1450
+  size: 318, 179
+  orig: 318, 179
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/backleg_back
+  rotate: true
+  xy: 765, 138
+  size: 390, 784
+  orig: 390, 784
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/backpaw_back
+  rotate: false
+  xy: 852, 1800
+  size: 259, 161
+  orig: 259, 161
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/backpaw_front
+  rotate: false
+  xy: 277, 1631
+  size: 312, 171
+  orig: 312, 171
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/ear_back
+  rotate: true
+  xy: 960, 1419
+  size: 194, 341
+  orig: 194, 341
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/ear_front
+  rotate: true
+  xy: 849, 1037
+  size: 380, 394
+  orig: 380, 394
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/forepaw_back
+  rotate: false
+  xy: 2, 1645
+  size: 273, 169
+  orig: 273, 169
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/forepaw_front
+  rotate: false
+  xy: 322, 1443
+  size: 317, 182
+  orig: 317, 182
+  offset: 0, 0
+  index: -1
+dogMagenta/images/backleg_back
+  rotate: true
+  xy: 1245, 919
+  size: 366, 798
+  orig: 366, 798
+  offset: 0, 0
+  index: -1
+dogMagenta/images/backpaw_back
+  rotate: false
+  xy: 1113, 1800
+  size: 249, 161
+  orig: 249, 163
+  offset: 0, 1
+  index: -1
+dogMagenta/images/backpaw_front
+  rotate: false
+  xy: 1483, 1613
+  size: 273, 179
+  orig: 273, 179
+  offset: 0, 0
+  index: -1
+dogMagenta/images/collar
+  rotate: false
+  xy: 1373, 530
+  size: 583, 387
+  orig: 583, 387
+  offset: 0, 0
+  index: -1
+dogMagenta/images/ear_back
+  rotate: true
+  xy: 2, 1118
+  size: 323, 465
+  orig: 323, 465
+  offset: 0, 0
+  index: -1
+dogMagenta/images/forepaw_back
+  rotate: false
+  xy: 1214, 1615
+  size: 267, 177
+  orig: 267, 177
+  offset: 0, 0
+  index: -1
+dogMagenta/images/forepaw_front
+  rotate: false
+  xy: 641, 1430
+  size: 317, 193
+  orig: 317, 193
+  offset: 0, 0
+  index: -1
+dogMagenta/images/neck
+  rotate: true
+  xy: 1551, 2
+  size: 526, 492
+  orig: 526, 512
+  offset: 0, 0
+  index: -1
+dogViolet/images/backpaw_back
+  rotate: false
+  xy: 553, 1804
+  size: 297, 157
+  orig: 297, 161
+  offset: 0, 2
+  index: -1
+dogViolet/images/backpaw_front
+  rotate: false
+  xy: 1364, 1794
+  size: 322, 167
+  orig: 322, 167
+  offset: 0, 0
+  index: -1
+dogViolet/images/ear_back
+  rotate: true
+  xy: 1758, 1599
+  size: 193, 273
+  orig: 193, 273
+  offset: 0, 0
+  index: -1
+dogViolet/images/ear_front
+  rotate: false
+  xy: 469, 1059
+  size: 378, 369
+  orig: 378, 369
+  offset: 0, 0
+  index: -1
+dogViolet/images/forepaw_back
+  rotate: false
+  xy: 5, 1816
+  size: 284, 145
+  orig: 284, 149
+  offset: 0, 2
+  index: -1
+dogViolet/images/forepaw_front
+  rotate: false
+  xy: 899, 1625
+  size: 313, 173
+  orig: 313, 173
+  offset: 0, 0
+  index: -1
+transparent
+  rotate: false
+  xy: 2, 1960
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+dogFullBody2.png
+size: 1912,1801
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dogGreen/images/foreleg_front
+  rotate: true
+  xy: 2, 1400
+  size: 399, 943
+  orig: 399, 943
+  offset: 0, 0
+  index: -1
+dogGreen/images/neck
+  rotate: false
+  xy: 763, 17
+  size: 612, 477
+  orig: 612, 477
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/foreleg_back
+  rotate: true
+  xy: 2, 69
+  size: 465, 759
+  orig: 509, 759
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/foreleg_front
+  rotate: true
+  xy: 855, 951
+  size: 444, 965
+  orig: 444, 965
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/neck
+  rotate: false
+  xy: 1377, 2
+  size: 533, 492
+  orig: 533, 549
+  offset: 0, 0
+  index: -1
+dogMagenta/images/foreleg_front
+  rotate: true
+  xy: 2, 983
+  size: 415, 851
+  orig: 415, 851
+  offset: 0, 0
+  index: -1
+dogViolet/images/backleg_back
+  rotate: true
+  xy: 947, 1397
+  size: 402, 780
+  orig: 402, 780
+  offset: 0, 0
+  index: -1
+dogViolet/images/collar
+  rotate: false
+  xy: 2, 536
+  size: 798, 445
+  orig: 798, 445
+  offset: 0, 0
+  index: -1
+dogViolet/images/foreleg_back
+  rotate: true
+  xy: 802, 496
+  size: 453, 801
+  orig: 453, 801
+  offset: 0, 0
+  index: -1
+
+dogFullBody3.png
+size: 1947,1584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dogGreen/images/tail
+  rotate: false
+  xy: 1203, 539
+  size: 539, 534
+  orig: 539, 534
+  offset: 0, 0
+  index: -1
+dogGreen/images/tail_front
+  rotate: false
+  xy: 1423, 1075
+  size: 522, 507
+  orig: 522, 507
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/tail
+  rotate: true
+  xy: 775, 1087
+  size: 495, 646
+  orig: 495, 646
+  offset: 0, 0
+  index: -1
+dogMagenta/images/ear_front
+  rotate: true
+  xy: 2, 590
+  size: 511, 516
+  orig: 511, 516
+  offset: 0, 0
+  index: -1
+dogMagenta/images/foreleg_back
+  rotate: true
+  xy: 2, 1103
+  size: 479, 771
+  orig: 479, 771
+  offset: 0, 0
+  index: -1
+dogViolet/images/foreleg_front
+  rotate: true
+  xy: 2, 34
+  size: 521, 962
+  orig: 521, 962
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/blue/images/head angry
+  rotate: false
+  xy: 966, 2
+  size: 686, 535
+  orig: 686, 535
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/blue/images/head sad
+  rotate: false
+  xy: 520, 557
+  size: 681, 528
+  orig: 681, 528
+  offset: 0, 0
+  index: -1
+
+dogFullBody4.png
+size: 2044,1715
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dogMagenta/images/torso
+  rotate: false
+  xy: 2, 2
+  size: 1326, 872
+  orig: 1326, 872
+  offset: 0, 0
+  index: -1
+dogViolet/images/torso
+  rotate: false
+  xy: 2, 876
+  size: 1393, 837
+  orig: 1393, 837
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/violet/images/head bark
+  rotate: true
+  xy: 1397, 889
+  size: 824, 645
+  orig: 824, 645
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/violet/images/head happy
+  rotate: true
+  xy: 1397, 101
+  size: 786, 637
+  orig: 786, 637
+  offset: 0, 0
+  index: -1
+
+dogFullBody5.png
+size: 2019,1517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dogGreen/images/torso
+  rotate: false
+  xy: 2, 10
+  size: 1287, 747
+  orig: 1287, 747
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/torso
+  rotate: false
+  xy: 2, 759
+  size: 1302, 756
+  orig: 1302, 756
+  offset: 0, 0
+  index: -1
+dogViolet/images/tail
+  rotate: false
+  xy: 1306, 628
+  size: 699, 887
+  orig: 699, 887
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/magenta/images/head happy
+  rotate: false
+  xy: 1291, 2
+  size: 726, 624
+  orig: 726, 624
+  offset: 0, 0
+  index: -1
+
+dogFullBody6.png
+size: 2044,1969
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dogGreen/images/backleg_front
+  rotate: true
+  xy: 620, 115
+  size: 585, 1079
+  orig: 585, 1079
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/backleg_front
+  rotate: false
+  xy: 2, 2
+  size: 616, 1069
+  orig: 630, 1087
+  offset: 0, 0
+  index: -1
+dogMagenta/images/backleg_front
+  rotate: true
+  xy: 916, 1317
+  size: 650, 1091
+  orig: 650, 1091
+  offset: 0, 0
+  index: -1
+dogViolet/images/backleg_front
+  rotate: true
+  xy: 916, 702
+  size: 613, 1126
+  orig: 613, 1126
+  offset: 0, 0
+  index: -1
+dogViolet/images/neck
+  rotate: false
+  xy: 2, 1073
+  size: 912, 894
+  orig: 912, 894
+  offset: 0, 0
+  index: -1
+
+dogFullBody7.png
+size: 1691,1983
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dogGreen/images/head
+  rotate: false
+  xy: 845, 676
+  size: 844, 616
+  orig: 844, 616
+  offset: 0, 0
+  index: -1
+dogLightBlue/images/head
+  rotate: false
+  xy: 2, 628
+  size: 789, 658
+  orig: 789, 658
+  offset: 0, 0
+  index: -1
+dogMagenta/images/head
+  rotate: false
+  xy: 845, 1294
+  size: 825, 687
+  orig: 825, 687
+  offset: 0, 0
+  index: -1
+dogViolet/images/head
+  rotate: false
+  xy: 2, 1288
+  size: 841, 693
+  orig: 841, 693
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/magenta/images/head bark
+  rotate: false
+  xy: 2, 2
+  size: 712, 624
+  orig: 712, 624
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/violet/images/head angry
+  rotate: false
+  xy: 793, 95
+  size: 768, 579
+  orig: 768, 579
+  offset: 0, 0
+  index: -1
+
+dogFullBody8.png
+size: 1962,2032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dogLightBlue/images/collar
+  rotate: false
+  xy: 1339, 723
+  size: 594, 615
+  orig: 594, 615
+  offset: 0, 0
+  index: -1
+dogMagenta/images/tail
+  rotate: false
+  xy: 1373, 1345
+  size: 587, 685
+  orig: 672, 723
+  offset: 0, 38
+  index: -1
+zdDogFacialExpressions/blue/images/head bark
+  rotate: true
+  xy: 754, 1340
+  size: 690, 617
+  orig: 690, 617
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/green/images/head angry
+  rotate: true
+  xy: 2, 2
+  size: 719, 540
+  orig: 719, 540
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/green/images/head bark
+  rotate: false
+  xy: 2, 1447
+  size: 750, 583
+  orig: 750, 583
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/green/images/head happy
+  rotate: true
+  xy: 617, 27
+  size: 719, 555
+  orig: 719, 555
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/magenta/images/head angry
+  rotate: true
+  xy: 2, 723
+  size: 722, 613
+  orig: 722, 613
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/magenta/images/head sad
+  rotate: false
+  xy: 617, 748
+  size: 720, 590
+  orig: 720, 590
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/violet/images/head sad
+  rotate: false
+  xy: 1174, 139
+  size: 705, 582
+  orig: 705, 582
+  offset: 0, 0
+  index: -1
+
+dogFullBody9.png
+size: 1127,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zdDogFacialExpressions/blue/images/head happy
+  rotate: true
+  xy: 2, 33
+  size: 681, 578
+  orig: 681, 578
+  offset: 0, 0
+  index: -1
+zdDogFacialExpressions/green/images/head sad
+  rotate: true
+  xy: 582, 2
+  size: 712, 543
+  orig: 712, 543
+  offset: 0, 0
+  index: -1
